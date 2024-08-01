@@ -1,5 +1,5 @@
 # add the following to _config.yml file
 title: Leo Ma
 theme: jekyll-theme-minimal
-#logo: /assets/img/headshot_circle.png
-#description: text below image
+logo: /assets/img/headshot.png
+description: Data Scientist/Engineer

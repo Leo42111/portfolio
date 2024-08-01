@@ -1,8 +1,10 @@
 # Data Scientist
 
-### Education
-MSc in Data Science
-BSc in Computer Science
+#### Technical Skills: Python, SQL, NoSQL, 
 
 ### Projects
 ***Bike sharing***
+
+Description
+
+##### Skills used: 
